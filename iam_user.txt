@@ -1,0 +1,1 @@
+Hi i am IAM user with ec2full access permissions
